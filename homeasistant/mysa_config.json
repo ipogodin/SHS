@@ -1,0 +1,14 @@
+{
+  "summer_starts": "May 5",
+  "summer_ends": "Oct 15",
+  "dining": {
+    "winter": {
+      "temp": "22.0",
+      "mode": "heat"
+    },
+    "summer": {
+      "temp": "19.0",
+      "mode": "cool"
+    }
+  }
+}
